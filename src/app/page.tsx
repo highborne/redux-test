@@ -1,5 +1,3 @@
 export default function Home() {
-  return (
-  <>Highborne template</>
-  )
+  return <>Highborne template</>;
 }
